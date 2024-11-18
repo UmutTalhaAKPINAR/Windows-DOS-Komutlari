@@ -92,23 +92,28 @@ Ağ bağlantılarını ve portları gösterir.
 
 ![1 (17)](https://github.com/user-attachments/assets/841aa174-b4b3-4752-bb5d-d03794a82f60)
 
-## 17-) getmac
+## 17-) ipconfig
+Ağ yapılandırması hakkında bilgi sağlar.
+
+![1 (50)](https://github.com/user-attachments/assets/bed8c1b0-84ea-4144-8982-aad3378b5b84)
+
+## 18-) getmac
 Bilgisayarın MAC (Media Access Control) adresini ve ilgili ağ bağdaştırıcısı bilgilerini gösterir.
 
 ![1 (22)](https://github.com/user-attachments/assets/4fd84967-2f4d-4855-bf66-8ce7dd5646a4)
 
-## 18-) shutdown
+## 19-) shutdown
 Bilgisayarı kapatır, yeniden başlatır veya uyku moduna geçirir. Ayrıca bu işlemler için süre belirlenebilir.
 
 ![1 (18)](https://github.com/user-attachments/assets/c9b5f859-0884-4229-b24e-87222a4bfd22)
 
-## 19-) cls (Clear Screen)
+## 20-) cls (Clear Screen)
 Ekranı temizler. (Fakat işlemleri silmez)
 
 ![1 (19)](https://github.com/user-attachments/assets/d01c42cd-ba84-4744-a54a-9bd3cb954d5a)
 ![1 (20)](https://github.com/user-attachments/assets/071e576a-dbec-4756-aa8c-4963a566c6f6)
 
-## 20-) exit
+## 21-) exit
 Komut istemcisini kapatır.
 
 ![1 (23)](https://github.com/user-attachments/assets/457753fd-e321-4ca2-89b2-f7c7572d80f0)
