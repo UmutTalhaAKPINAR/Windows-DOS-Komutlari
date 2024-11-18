@@ -1,5 +1,4 @@
 # Windows-DOS-Komutları
-İşletim Sistemleri dersi vize ödevi
 
 ## 1-) dir (Directory)
 Bulunduğunuz dizindeki dosya ve klasörlerin listesini gösterir.
